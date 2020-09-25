@@ -1,0 +1,13 @@
+xtick.labelsize:14
+ytick.labelsize:14
+grid.linestyle: :
+axes.grid: True
+axes.labelsize: 15
+legend.borderpad: 0.5
+figure.subplot.top: 0.95
+figure.subplot.bottom: 0.08
+figure.subplot.left: 0.09
+figure.subplot.right: 0.95
+legend.title_fontsize: 14
+legend.fontsize: 14
+#axes.prop_cycle: cycler('color', 'bgrcmyk')
