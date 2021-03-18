@@ -1,6 +1,9 @@
 Changelog
 ==========
 
+### 1.0.1 - 2021.03.18
+	- Fix: create new project
+
 ### 1.0 - 2021.03.15
 	- New: load specimens data using readers
 	- New: Module EP01 (Elastic properties analysis)
