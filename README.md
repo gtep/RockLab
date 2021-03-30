@@ -5,25 +5,18 @@ RockLab is a result manager for tests performed in a rock laboratory.
 
 ### 1. Installation
 
-Download [last version][3], unzip and run RockLab.exe.
+If you have a Git installed, simply open your cmd and type: 
 
-Alternative options to simplify change of versions and future updates:
+```shell
+git clone https://github.com/gtep/RockLab.git
+```
 
-Alternative option 1:
+Otherwise, [download][4], install and [configure][5] Git.
 
-1. [Download][4], install and [configure][5] Git
-2. Download [RockLab_Installer.bat][1] (right-click on this link and then "Save link as...")
-3. Run RockLab_Installer.bat
-
-Alternative option 2:
-
-1. Open your cmd and type:
-
-	```shell
-	git clone https://github.com/gtep/RockLab.git
-	```
-
-2. Open RockLab folder and run RockLab.exe.
+Alternatively you can:
+ 
+1. Download [RockLab_Installer.bat][1] (right-click on this link and then "Save link as...")
+2. Run RockLab_Installer.bat
 
 
 ### 2. License

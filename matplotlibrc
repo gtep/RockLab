@@ -10,4 +10,5 @@ figure.subplot.left: 0.09
 figure.subplot.right: 0.95
 legend.title_fontsize: 14
 legend.fontsize: 14
-#axes.prop_cycle: cycler('color', 'bgrcmyk')
+#mathtext.fontset: cm
+axes.prop_cycle: cycler('color', ['0B63C6', 'FFA700', '008140', 'FE2327', 'F74A81', '52531A', 'E7CCAF', '5E2F1B', 'FED70D', 'FE5B1A', 'FF5D5B', '7F7F7F', '5E9BEC', '5CA824', '8C2B8A', 'E6E9EE', '00B1A1', '4C88DE', '9874DB'])

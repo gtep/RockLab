@@ -5,4 +5,6 @@ ECHO.
 git pull
 ECHO.
 
+notepad.exe ../changelog.md
+
 pause
