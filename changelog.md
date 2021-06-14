@@ -1,6 +1,11 @@
 Changelog
 ==========
 
+### 1.1.1 - 2021.06.14
+	- Mod: collapse regression in module US01
+	- Fix: aspect ratio in module US01
+	- Fix: license reader
+
 ### 1.1 - 2021.03.30
 	- New: module code in the module's combobox
 	- New: changelog will be shown after update
