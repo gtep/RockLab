@@ -5,13 +5,13 @@ RockLab is a result manager for tests performed in a rock laboratory.
 
 ### 1. Installation
 
-If you have a Git installed, simply open your cmd and type: 
+If you have a [Git][4] and [Git lfs][6] installed, simply open your cmd and type: 
 
 ```shell
 git clone https://github.com/gtep/RockLab.git
 ```
 
-Otherwise, [download][4], install and [configure][5] Git.
+Otherwise, [download][4], install and [configure][5] Git and [Git lfs][6].
 
 Alternatively you can:
  
@@ -47,3 +47,4 @@ See [changelog.md](changelog.md) for description of updates.
 [3]: https://github.com/gtep/RockLab/releases
 [4]: https://git-scm.com/downloads
 [5]: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+[6]: https://git-lfs.github.com/

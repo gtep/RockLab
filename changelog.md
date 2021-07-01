@@ -1,6 +1,15 @@
 Changelog
 ==========
 
+### 1.2 - 2021.07.01
+	- New: possible input: all files
+	- New: accept files with empty last column
+	- New: paste path in filename box when inserting a file
+	- New: copy e-mail to clipboar when request for license
+	- Mod: scripts: change_version and updater
+	- Mod: checking if csv file exists before load project
+	- Fix: Young's modulus label in module EP01
+
 ### 1.1.1 - 2021.06.14
 	- Mod: collapse regression in module US01
 	- Fix: aspect ratio in module US01

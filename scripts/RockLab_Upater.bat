@@ -2,6 +2,7 @@
 ECHO.
 ECHO  RockLab Updater
 ECHO.
+git checkout master
 git pull
 ECHO.
 
